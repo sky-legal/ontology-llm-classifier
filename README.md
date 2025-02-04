@@ -16,4 +16,4 @@ Le script charge l'ontologie depuis `domaines.json`, définit des modèles de do
 Exécutez le script avec :
 
 ```bash
-python votre_script.py
+python classify_droit.py
