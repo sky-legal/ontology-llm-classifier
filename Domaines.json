@@ -1,0 +1,229 @@
+{
+    "name": "Branche du droit",
+    "children": [
+        {
+            "name": "Le droit civil",
+            "children": [
+                {
+                    "name": "Le droit de la famille",
+                    "children": []
+                },
+                {
+                    "name": "Le droit des personnes",
+                    "children": []
+                },
+                {
+                    "name": "Le droit des biens",
+                    "children": []
+                },
+                {
+                    "name": "Le droit des obligations",
+                    "children": [
+                        {
+                            "name": "Régime général des obligations",
+                            "children": []
+                        },
+                        {
+                            "name": "Droit des contrats spéciaux",
+                            "children": []
+                        },
+                        {
+                            "name": "Responsabilité civile",
+                            "children": [
+                                {
+                                    "name": "Responsabilité extra contractuelle ou délictuelle",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Responsabilité contractuelle",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Le droit international privé",
+            "children": []
+        },
+        {
+            "name": "Le droit des affaires",
+            "children": [
+                {
+                    "name": "Le droit commercial",
+                    "children": []
+                },
+                {
+                    "name": "Le droit des sociétés",
+                    "children": []
+                },
+                {
+                    "name": "Le droit du travail",
+                    "children": []
+                },
+                {
+                    "name": "Le droit social",
+                    "children": []
+                },
+                {
+                    "name": "Le droit des baux commerciaux",
+                    "children": []
+                },
+                {
+                    "name": "Le droit des entreprises en difficulté",
+                    "children": []
+                },
+                {
+                    "name": "Le droit de la concurrence",
+                    "children": []
+                },
+                {
+                    "name": "Le droit de la consommation",
+                    "children": []
+                },
+                {
+                    "name": "Le droit bancaire et le droit des assurances",
+                    "children": []
+                },
+                {
+                    "name": "Le droit financier (dont le droit boursier)",
+                    "children": []
+                },
+                {
+                    "name": "Le droit de l'informatique",
+                    "children": []
+                },
+                {
+                    "name": "Le droit comptable",
+                    "children": []
+                },
+                {
+                    "name": "Le droit du secret des affaires",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Le droit économique",
+            "children": [
+                {
+                    "name": "Le droit de la concurrence",
+                    "children": []
+                },
+                {
+                    "name": "Le droit de la distribution",
+                    "children": []
+                },
+                {
+                    "name": "Le droit de la propriété intellectuelle",
+                    "children": [
+                        {
+                            "name": "Le droit de la propriété littéraire et artistique",
+                            "children": [
+                                {
+                                    "name": "Le droit d'auteur",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Les droits voisins du droit d'auteur",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Le droit de la propriété industrielle",
+                            "children": [
+                                {
+                                    "name": "Le droit des marques",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Le droit des brevets",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Le droit des dessins et modèles",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Droit mixte",
+            "children": [
+                {
+                    "name": "Droit des procédures",
+                    "children": []
+                },
+                {
+                    "name": "Droit de la preuve",
+                    "children": []
+                },
+                {
+                    "name": "Droit social",
+                    "children": [
+                        {
+                            "name": "Droit de la sécurité sociale",
+                            "children": []
+                        },
+                        {
+                            "name": "Droit du travail",
+                            "children": [
+                                {
+                                    "name": "Droit des relations individuelles",
+                                    "children": []
+                                },
+                                {
+                                    "name": "Droit des relations collectives",
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Droit de la protection sociale",
+                    "children": []
+                },
+                {
+                    "name": "Droit de la communication numérique",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Droit comparé",
+            "children": []
+        },
+        {
+            "name": "Droit public",
+            "children": [
+                {
+                    "name": "Droit constitutionnel",
+                    "children": []
+                },
+                {
+                    "name": "Droit administratif",
+                    "children": []
+                },
+                {
+                    "name": "Finances publiques",
+                    "children": []
+                },
+                {
+                    "name": "Droit international public",
+                    "children": []
+                },
+                {
+                    "name": "Droit pénal",
+                    "children": []
+                }
+            ]
+        }
+    ]
+}
