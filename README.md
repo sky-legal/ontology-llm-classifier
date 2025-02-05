@@ -11,7 +11,7 @@ Ce projet utilise une ontologie des domaines du droit et un modèle de langage p
 
 ## Utilisation
 
-Le script charge l'ontologie depuis `domaines.json`, définit des modèles de données avec Pydantic et envoie un prompt au modèle OpenAI (gpt-4o) pour effectuer une opération de matching et retourner 3 labels avec leurs probabilités.
+Le script charge l'ontologie depuis `domaines-demo.json`, définit des modèles de données avec Pydantic et envoie un prompt au modèle OpenAI (gpt-4o) pour effectuer une opération de matching et retourner 3 labels avec leurs probabilités.
 
 Exécutez le script avec :
 
