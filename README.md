@@ -7,7 +7,7 @@ Ce projet utilise une ontologie des domaines du droit et un modèle de langage p
 - Python 3.9+
 - [Pydantic](https://pydantic-docs.helpmanual.io/)
 - [OpenAI SDK](https://github.com/openai/openai-python)
-- Un fichier `domaines.json` contenant l'ontologie
+- Un fichier `domaines-demo.json` contenant l'ontologie (il s'agit d'une classification de démonstration)
 
 ## Utilisation
 
